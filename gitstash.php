@@ -16,6 +16,17 @@ git stash pop - восстановить и удалить из списка sta
 git stash drop - удалить из stash list определенный stash, или последний, если не указать
 git stash clear - удалит весь stash list
 
+
+
+шпаргалка
+http://sale.megabit24.ru/blog/programmirovanie/shpargalka-git-komand/
+
+git log -p -2
+    -p   Показывает коммит с разнице (выводит патч), внесенную в каждый коммит.
+
 git reset --hard HEAD резетнуть до коммита
 
- */
+
+
+
+*/
