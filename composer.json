@@ -9,6 +9,7 @@
   "license": "MIT",
   "extra": {
   },
+  "type": "bitrix-d7-template",
   "require": {
     "composer/installers": "~1"
   }
