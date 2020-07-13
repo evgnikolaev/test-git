@@ -1,0 +1,14 @@
+{
+  "name": "uplab/test-git",
+  "description": "Тестовый репозитория гит",
+  "homepage": "https://github.com/evgnikolaev/test-git.git",
+
+  "keywords": [
+    "bitrix",
+    "uplab"
+  ],
+  "license": "MIT",
+  "extra": {
+  }
+
+}
