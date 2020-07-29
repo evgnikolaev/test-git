@@ -28,5 +28,12 @@ git reset --hard HEAD резетнуть до коммита
 
 
 
+переустановка сабмодулей
+https://stackoverflow.com/questions/20929336/git-submodule-add-a-git-directory-is-found-locally-issue
+
+
+Когда не мержит, и ругается на рвзные версии
+git pull origin branchname --allow-unrelated-histories
+
 
 */
